@@ -1,6 +1,6 @@
 # Eyedenticon
 
-**TODO: Add description**
+** Library to generate unique identicons based on name**
 
 ## Installation
 
